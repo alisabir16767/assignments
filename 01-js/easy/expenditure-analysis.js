@@ -14,8 +14,6 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
-  if (transactions.length === 0) return [];
-
   return [];
 }
 
